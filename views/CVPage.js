@@ -3,9 +3,7 @@ import React from 'react';
 class CVPage extends React.Component {
 
   render() {
-    return
-    <p>Coming soon</p>
+    return <p>Coming soon</p>
   }
 }
-
-  export default CVPage;
+export default CVPage;

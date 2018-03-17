@@ -1,15 +1,18 @@
 import React from 'react';
+import LaLaLand from '../assets/LaLaLand.jpg';
 
 class RecommendationsPage extends React.Component {
 
+
+
   render() {
-    <div class="container-fluid">
+    return  <div class="container-fluid">
     <div class="row">
-    <div class="col-xs-6">
-      <img src={LaLaLand.jpg}/>
+    <div class="col-6">
+      <img src={LaLaLand}/>
     </div>
-    <div class="col-xs-6">
-    <h3>La La Land</h4>
+    <div class="col-6">
+    <h3>La La Land</h3>
     <p>2016</p>
     <p>
     Best soundtrack of all times. Unbelievable performance of Emma Stone.

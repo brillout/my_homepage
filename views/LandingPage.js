@@ -14,7 +14,7 @@ class LandingPage extends React.Component {
     <a class="nav-link" href="#">Blog</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="#">Recommendations</a>
+    <a class="nav-link" href="/recommendations">Recommendations</a>
   </li>
 </ul> }
   }
