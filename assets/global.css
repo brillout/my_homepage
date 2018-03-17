@@ -1,0 +1,27 @@
+img {
+  width: 100%
+}
+
+.black-background {
+  background: black;
+  color: grey;
+}
+
+.width-100 {
+  width: 100%
+}
+
+@media only screen and (max-width: 360px) {
+
+
+}
+@media only screen and (min-width: 360px) and (max-width: 768px) {
+
+
+
+}
+@media only screen and (min-width: 768px) {
+
+  
+
+}
