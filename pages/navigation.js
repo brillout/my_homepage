@@ -1,7 +1,5 @@
 import Navigation from '../navigation/component';
-console.log(Navigation);
-import assert from 'assert'
-assert(Navigation)
+
 export default {
     route: '/',
     view: Navigation,

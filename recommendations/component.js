@@ -10,8 +10,8 @@ class Recommendations extends React.Component {
   render() {
     return <div>
 
-    <Navigation/>
-    <RecommendationsTemplate/>
+      <Navigation currentPath={'recommendations'}/>
+      <RecommendationsTemplate/>
 
     </div>
   }

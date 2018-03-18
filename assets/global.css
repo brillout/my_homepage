@@ -3,8 +3,8 @@ img {
 }
 
 .black-background {
-  background: black;
-  color: grey;
+  background: #E0E1E0;
+  color: #212121;
 }
 
 .width-100 {
@@ -22,6 +22,6 @@ img {
 }
 @media only screen and (min-width: 768px) {
 
-  
+
 
 }

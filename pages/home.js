@@ -1,8 +1,8 @@
-import CV from '../cv/component';
+import Home from '../home/component';
 
 export default {
-    route: '/cv',
-    view: CV,
+    route: '/home',
+    view: Home,
     htmlStatic: true,
     domStatic: true,
     head: [
