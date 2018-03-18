@@ -1,5 +1,7 @@
 import React from 'react';
 import Navigation from '../navigation/component';
+import Footer from '../footer/component';
+
 import HomeTemplate from './template';
 import AssertComponents from '../test/assertComponentExistence.js';
 
@@ -14,7 +16,7 @@ class Home extends React.Component {
 
     <Navigation currentPath={"home"}/>
     <HomeTemplate/>
-
+    <Footer/>
     </div>
   }
 

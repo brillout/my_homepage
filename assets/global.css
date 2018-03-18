@@ -7,6 +7,10 @@ img {
   color: #212121;
 }
 
+.padding-top {
+  padding-top: 3vh
+}
+
 .width-100 {
   width: 100%
 }

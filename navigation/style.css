@@ -13,6 +13,12 @@
   color: white;
   border: none
 }
+.nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover{
+  color: white
+}
+.nav-link {
+  color:white
+}
 
 .grey-background.nav-link {
   background: #484848;

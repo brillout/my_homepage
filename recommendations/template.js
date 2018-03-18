@@ -9,7 +9,7 @@ class RecommendationsTemplate extends React.Component {
 
     <div className="black-background width-100%">
 
-      <div className="container responsive-width">
+      <div className="container responsive-width padding-top">
         <div className="row justify-content-center">
           <div className="col-md-auto col-sm-auto">
             <img src={LaLaLand}/>

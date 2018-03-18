@@ -15,9 +15,9 @@ class Navigation extends React.Component {
           <li className="nav-item">
             <a className={classnames('nav-link', this.props.currentPath === 'cv' && 'active')} href="/cv">CV</a>
           </li>
-          // <li className="nav-item">
-          //   <a className={classnames('nav-link', this.props.currentPath === 'blog' && 'active')} href="/blog">Blog</a>
-          // </li>
+          <li className="nav-item">
+            <a className={classnames('nav-link', this.props.currentPath === 'blog' && 'active')} href="/blog">Blog</a>
+          </li>
           <li className="nav-item">
             <a className={classnames('nav-link', this.props.currentPath === 'recommendations' && 'active')} href="/recommendations">Recommendations</a>
           </li>
