@@ -9,13 +9,21 @@ class HomeTemplate extends React.Component {
       <div class="container-fluid">
         <div class="row">
           <div class="col">
-            <a href="/privacy">Privace policy</a>
+            <p>
+              <a href="/privacy">Privace policy</a>
+            </p>
           </div>
           <div class="col text-right">
-            <a href="https://www.linkedin.com/in/josh-simon/">
-              LinkedIn
-            </a>
-            <p>mail: joshsimon@gmx.net</p>
+            <p>
+              <a href="https://www.linkedin.com/in/josh-simon/">
+                LinkedIn
+              </a>
+            </p>
+            <p>
+              <a href="mailto:joshsimon@gmx.net">
+                Email Me
+              </a>
+            </p>
           </div>
         </div>
       </div>

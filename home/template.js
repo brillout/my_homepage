@@ -37,11 +37,10 @@ class HomeTemplate extends React.Component {
             </p>
             <p>
               Currently I am studying in Berlin looking forward to finish my Bachelor's degree.
-              Besides my studies I am employed as a working student at an awesome company - <a href="https://www.rapidfacture.com">Rapidfacture</a>.
-              I help to push automation forward in single part manufacturing, especially turned parts.
+              Besides my studies, I am employed as a working student at <a href="https://www.rapidfacture.com">Rapidfacture</a>.
+              I push automation forward in single part manufacturing.
               Check out my <a href="/cv">CV</a> to get an impression of my prior work experience and projects.
-              Or get in touch! Feel free to reach out to me on <a href="https://www.linkedin.com/in/josh-simon/">LinkedIn</a>
-              or write me an <a href="joshsimon@gmx.de">email</a>.
+              Or get in touch! Feel free to reach out to me on <a href="https://www.linkedin.com/in/josh-simon/">LinkedIn</a> or write me an <a href="joshsimon@gmx.de">email</a>.
               </p>
             </div>
           </div>
