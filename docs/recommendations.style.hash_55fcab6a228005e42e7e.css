@@ -35,3 +35,44 @@
 .grey-background.nav-tabs {
   border:none
 }
+
+img {
+  width: 100%
+}
+
+.body {
+  height: 100%;
+  width: 100%;
+  display: table
+}
+
+.black-background {
+  background: #E0E1E0;
+  color: #212121;
+}
+
+.padding-top {
+  padding-top: 3vh
+}
+
+.width-100 {
+  width: 100%
+}
+
+@media only screen and (max-width: 360px) {
+
+
+}
+@media only screen and (min-width: 360px) and (max-width: 768px) {
+
+
+
+}
+@media only screen and (min-width: 768px) {
+
+
+
+}
+
+
+/*# sourceMappingURL=recommendations.style.hash_55fcab6a228005e42e7e.css.map*/

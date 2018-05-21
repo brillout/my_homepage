@@ -5,7 +5,7 @@ import classnames from 'classnames';
 class Navigation extends React.Component {
 
   render() {
-    return <div>
+    return <div className="navigation">
         <div className="black-bar-top">
         </div>
         <ul className="nav nav-tabs grey-background">

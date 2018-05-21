@@ -5,3 +5,8 @@ width: 8vw
 .footer-dark {
 background-color: #212121
 }
+
+.footer {
+ display: table-row;
+height: 100px
+}

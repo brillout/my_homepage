@@ -1,0 +1,109 @@
+.navigation{
+  display: table-row;
+  height: 90px;
+}
+
+.black-bar-top{
+  background: #000000;
+  height: 50px;
+}
+
+.grey-background{
+  background: #212121;
+  height: 40px
+}
+
+/* overwriting bootstrap*/
+.grey-background.nav-tabs .nav-item.show .nav-link,.grey-background.nav-tabs .nav-link.active {
+  background: #484848;
+  color: white;
+  border: none
+}
+.nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover{
+  color: white
+}
+.nav-link {
+  color:white
+}
+
+.grey-background.nav-link {
+  background: #484848;
+  color: white;
+  border: none
+}
+
+.grey-background.nav-tabs {
+  border:none
+}
+
+img {
+  width: 100%
+}
+
+.body {
+  height: 100%;
+  width: 100%;
+  display: table
+}
+
+.black-background {
+  background: #E0E1E0;
+  color: #212121;
+}
+
+.padding-top {
+  padding-top: 3vh
+}
+
+.width-100 {
+  width: 100%
+}
+
+@media only screen and (max-width: 360px) {
+
+
+}
+@media only screen and (min-width: 360px) and (max-width: 768px) {
+
+
+
+}
+@media only screen and (min-width: 768px) {
+
+
+
+}
+
+.linkedIn {
+width: 8vw
+}
+
+.footer-dark {
+background-color: #212121
+}
+
+.footer {
+ display: table-row;
+height: 100px
+}
+
+.content {
+  display: table;
+  height: 100vh;
+  width: 100%
+}
+
+.expand-content {
+  height: 100%;
+}
+
+.company-logo {
+  padding-top: 20px
+}
+
+.job-row {
+  padding-top: 20px
+}
+
+
+/*# sourceMappingURL=cv.style.hash_fc005956413039f2a894.css.map*/
