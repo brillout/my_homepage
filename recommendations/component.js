@@ -2,17 +2,19 @@ import React from 'react';
 import RecommendationsTemplate from './template.js';
 import Navigation from '../navigation/component';
 import AssertComponents from '../test/assertComponentExistence.js';
+import Content from '../content/component.js'
 
-AssertComponents([RecommendationsTemplate,Navigation]);
+
+AssertComponents([RecommendationsTemplate,Content]);
 
 class Recommendations extends React.Component {
 
   render() {
     return <div>
 
-      <Navigation currentPath={'recommendations'}/>
+    <Content>
       <RecommendationsTemplate/>
-
+    </Content>
     </div>
   }
 

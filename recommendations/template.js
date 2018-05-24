@@ -30,7 +30,20 @@ class RecommendationsTemplate extends React.Component {
           </div>
         </div>
       </div>
-
+      <div className="container responsive-width padding-top">
+        <div className="row justify-content-center">
+          <div className="col-md-auto col-sm-auto">
+            <img src={LaLaLand}/>
+          </div>
+          <div className="col-md col-sm-12">
+            <h3>La La Land</h3>
+            <p>2016</p>
+            <ul>
+              <li>test</li>
+            </ul>
+          </div>
+        </div>
+      </div>
     </div>
 
     </div>
