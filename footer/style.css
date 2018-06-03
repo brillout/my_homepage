@@ -8,5 +8,12 @@ background-color: #212121
 
 .footer {
  display: table-row;
-height: 100px
+}
+
+.contact-nodes-p {
+  padding: 1rem;
+}
+
+.contact-node-a {
+  padding: 1rem;
 }

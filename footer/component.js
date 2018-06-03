@@ -16,18 +16,16 @@ class Home extends React.Component {
       <div class="container-fluid">
         <div class="row">
           <div class="col">
-            <p>
+          <p className="contact-nodes-p">
               <a href="/privacy">Privace policy</a>
             </p>
           </div>
           <div class="col text-right">
-            <p>
-              <a href="https://www.linkedin.com/in/josh-simon/">
-                LinkedIn
-              </a>
-            </p>
-            <p>
-              <a href="mailto:joshsimon@gmx.net">
+            <p className="contact-nodes-p">
+            <a className="contact-node-a" href="https://www.linkedin.com/in/josh-simon/">
+              LinkedIn
+            </a>
+              <a className="contact-node-a" href="mailto:joshsimon@gmx.net">
                 Email Me
               </a>
             </p>

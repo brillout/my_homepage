@@ -15,8 +15,8 @@ class HomeTemplate extends React.Component {
             </div>
             <div className="col-auto">
               <div className="container h-100">
-                <div class="row h-100 align-items-center">
-                  <div class="col-auto align-self-center">
+                <div className="row h-100 align-items-center">
+                  <div className="col-auto align-self-center">
                     <h3>
                       Joshua Simon
                     </h3>

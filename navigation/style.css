@@ -35,3 +35,9 @@
 .grey-background.nav-tabs {
   border:none
 }
+
+.white-header {
+  color: white;
+  padding: 1rem;
+
+}
