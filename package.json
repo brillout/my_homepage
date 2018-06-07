@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@reframe/react-kit": "^0.1.6",
+    "@reframe/react-kit": "^0.1.12-next.0",
     "classnames": "^2.2.5",
     "react": "^16.2.0"
   }
